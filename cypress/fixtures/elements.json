@@ -1,0 +1,9 @@
+{
+  "textSearchBox": "input#twotabsearchtextbox",
+  "searchButton": "input#nav-search-submit-button",
+  "wool": "Merino wool",
+  "switch": "Nintendo Switch",
+  "racket": "Wilson racket",
+  "results_header": ".sg-col-14-of-20 > .sg-col-inner > .a-size-base > :nth-child(1)",
+  "item_header": ".a-color-state"
+}
